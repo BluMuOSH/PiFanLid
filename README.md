@@ -5,7 +5,7 @@ It is intended to sit on top of a Raspberry Pi 4B, but will work on a 3B or 3B+ 
 
 An NPN transistor is included to allow PWM control of the fan speed through any of eight different GPIO pins. GPIO18 allows hardware PWM, but software PWM works well enough in this application and is available on any of the GPIO pins.
 
-The three files: PiFanLidR1.pro, PiFanLidR1.sch, and PiFanLidR1.kicad_pcb constitute a KiCAD project. (KiCAD is an open source schematic capture and PCB layout program.) You can download KiCAD to open the project and possibly make changes, or send PiFanLidR1.kicad_pcb to oshpark.com to have a PCB made. They should charge around $25 or $30 for three boards.
+The three files: PiFanLidR1.pro, PiFanLidR1.sch, and PiFanLidR1.kicad_pcb constitute a KiCAD project. (KiCAD is an open source schematic capture and PCB layout program.) You can download KiCAD to open the project and possibly make changes, or send PiFanLidR1.kicad_pcb to https://oshpark.com/ to have a PCB made. They should charge around $25 or $30 for three boards.
 
 Or... drop me an email. If I have any boards left over, I might send you one by USPS.
 
