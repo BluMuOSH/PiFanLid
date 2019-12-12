@@ -19,5 +19,5 @@ Required materials:
 6. 2x20 pin header socket (available from adafruit. The extra tall version is recommended.)
 7. standoffs to support the PCB. You can get away with two, but four is better.
 
-Aerandir14 wrote an excellent description of the circuit along with working python code. It can be found at
+Aerandir14 wrote an excellent description of the circuit. It can be found at
 https://www.instructables.com/id/PWM-Regulated-Fan-Based-on-CPU-Temperature-for-Ras/
