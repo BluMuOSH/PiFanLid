@@ -1,5 +1,5 @@
 # PiFanLid
-Welcome to the Pi Fan Lid (Lid = Layer Incorporating Devices.) A PCB with a fan to keep your Raspberry Pi cool
+Welcome to the Pi Fan LID (LID = Layer Incorporating Devices.) A PCB with a fan to keep your Raspberry Pi cool
 
 It is intended to sit on top of a Raspberry Pi 4B, but will work on a 3B or 3B+ too.
 
