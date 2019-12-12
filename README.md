@@ -17,7 +17,12 @@ Required materials:
 4. base current limiting resistor (1k works well)
 5. freewheeling diode (1N4001 for example)
 6. 2x20 pin header socket (available from adafruit. The extra tall version is recommended.)
-7. standoffs to support the PCB. You can get away with two, but four is better.
+7. standoffs to support the PCB. 4 is best. 2 is OK. You can get away with none if you handle carefully.
+
+fan-ctrl.py is a python script that will control the speed of the fan depending on the temperature of the CPU.
+fan-ctrl.sh is a shell script that can be used to start fan-ctrl.py at boot up. See Pi Lid Assembly and Installation.pdf for instructions.
 
 Aerandir14 wrote an excellent description of the circuit. It can be found at
 https://www.instructables.com/id/PWM-Regulated-Fan-Based-on-CPU-Temperature-for-Ras/
+
+My python code is based loosely on his.
